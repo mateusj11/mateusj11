@@ -30,3 +30,6 @@ Vamos começar por aqui:
 <a href="https://www.credly.com/badges/e2129651-9f32-4d86-8a88-3428afbd8245/public_url"><img height="60" src="https://www.softsell.com.br/wp-content/uploads/2020/12/CompTIA-LinuxLogo.png?w=640" /></a>
 <a href="https://mikrotik.com/training/certificates/b152504c2e322b5822a4"><img height="60" src="https://gatre.com.br/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-09-at-08.03.jpg" /></a>
 <a href="https://mikrotik.com/training/certificates/b152706c6eec285fb74f"><img height="60" src="https://fabricadeconhecimentos.com.br/wp-content/uploads/2020/08/1460942_6f1b_3.jpg" /></a>
+
+  ![Snake animation](https://github.com/mateusj11/mateusj11/blob/output/github-contribution-grid-snake.svg)
+
